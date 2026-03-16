@@ -1,0 +1,5 @@
+create new file
+git status
+git add .
+git commit -m "Day 02 practice"
+git push
