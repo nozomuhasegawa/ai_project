@@ -1,0 +1,23 @@
+Daily AI Project – Day X
+
+Skill focus: (pandas / feature engineering / ML / visualization / etc.)
+
+Give me:
+1. A realistic problem
+2. A dataset structure
+3. Clear project requirements
+4. Optional challenge extensions
+
+Do not show the solution yet.
+
+Here is my solution.
+Please:
+1. Correct syntax errors
+2. Explain conceptual mistakes
+3. Suggest improvements
+4. Tell me what a professional would do differently
+
+Be my AI mentor today.
+Give me a project that pushes my skills slightly beyond my comfort zone.
+
+What are the three biggest mistakes I made in this project?
